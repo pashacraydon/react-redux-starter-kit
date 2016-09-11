@@ -1,0 +1,873 @@
+{
+ "totalItems": 1383,
+ "items": [
+  {
+   "id": "3KDPCgAAQBAJ",
+   "volumeInfo": {
+    "title": "The Longevity Book: Live stronger. Live better. The art of ageing well.",
+    "authors": [
+     "Cameron Diaz"
+    ],
+    "publisher": "HarperCollins UK",
+    "publishedDate": "2016-04-07",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780008168346"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0008168342"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3KDPCgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3KDPCgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=3KDPCgAAQBAJ&dq=*&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=3KDPCgAAQBAJ&dq=*&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/The_Longevity_Book_Live_stronger_Live_be.html?hl=&id=3KDPCgAAQBAJ"
+   }
+  },
+  {
+   "id": "TQ5rlfwgWyUC",
+   "volumeInfo": {
+    "title": "The Surrendered",
+    "authors": [
+     "Chang-rae Lee"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2010-03-09",
+    "description": "Read an essay by Chang-rae Lee here. The bestselling, award-winning writer of Native Speaker, A Gesture Life, and Aloft returns with his biggest, most ambitious novel yet: a spellbinding story of how love and war echo through an entire lifetime. With his three critically acclaimed novels, Chang-rae Lee has established himself as one of the most talented writers of contemporary literary fiction. Now, with The Surrendered, Lee has created a book that amplifies everything we've seen in his previous works, and reads like nothing else. It is a brilliant, haunting, heartbreaking story about how love and war inalterably change the lives of those they touch. June Han was only a girl when the Korean War left her orphaned; Hector Brennan was a young GI who fled the petty tragedies of his small town to serve his country. When the war ended, their lives collided at a Korean orphanage where they vied for the attentions of Sylvie Tanner, the beautiful yet deeply damaged missionary wife whose elusive love seemed to transform everything. Thirty years later and on the other side of the world, June and Hector are reunited in a plot that will force them to come to terms with the mysterious secrets of their past, and the shocking acts of love and violence that bind them together. As Lee unfurls the stunning story of June, Hector, and Sylvie, he weaves a profound meditation on the nature of heroism and sacrifice, the power of love, and the possibilities for mercy, salvation, and surrendering oneself to another. Combining the complex themes of identity and belonging of Native Speaker and A Gesture Life with the broad range, energy, and pure storytelling gifts of Aloft, Chang-rae Lee has delivered his most ambitious, exciting, and unforgettable work yet. It is a mesmeriz\u00ading novel, elegantly suspenseful and deeply affecting.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781101185988"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1101185988"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.2.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TQ5rlfwgWyUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TQ5rlfwgWyUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=TQ5rlfwgWyUC&printsec=frontcover&dq=*&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=TQ5rlfwgWyUC&dq=*&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/The_Surrendered.html?hl=&id=TQ5rlfwgWyUC"
+   }
+  },
+  {
+   "id": "NPFfUer-WRMC",
+   "volumeInfo": {
+    "title": "Suri's Burn Book",
+    "subtitle": "Well-dressed Commentary from Hollywood's Little Sweetheart",
+    "authors": [
+     "Allie Hagan"
+    ],
+    "publisher": "Running Press",
+    "publishedDate": "2012",
+    "description": "Based on the popular blog of the same name, Suri’s Burn Book is told from the harsh yet clever perspective of “Suri Cruise,” Tom Cruise and Katie Holmes’ five-year-old daughter—and one of the youngest fashionistas in America today. Suri’s snarky and clever wit will cover everything celeb obsessed, from celebrity culture and fashion mistakes to celebs who are annoying pregnant. Also included is Suri’s very best advice and essays on topics ranging from pop culture to politics, accompanied by approximately 100 full-color photos throughout.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780762447350"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0762447354"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 127,
+    "printType": "BOOK",
+    "categories": [
+     "Humor"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.5.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NPFfUer-WRMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NPFfUer-WRMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=NPFfUer-WRMC&printsec=frontcover&dq=*&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=NPFfUer-WRMC&dq=*&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Suri_s_Burn_Book.html?hl=&id=NPFfUer-WRMC"
+   }
+  },
+  {
+   "id": "gN0tnwEACAAJ",
+   "volumeInfo": {
+    "title": "Diary of a Wimpy Kid Postcard Book",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "Mudpuppy",
+    "publishedDate": "2014-04-22",
+    "description": "Mudpuppy's Wimpy Kid Postcard Book is a fun way to keep your friends and family updated with what's happening at camp, in school, while you're on vacation, or as you hang around your neighborhood. Greg Heffley and the gang are illustrated on 30 oversized postcards, so your greetings are in great company. A wonderful keepsake for fans of the best selling Diary of a Wimpy Kid book series, as well as the perfect introduction to writing and sending postcards, this postcard book will be the talk of the schoolyard! • 30 oversized postcards (letter postage required in US) • Book measures: 7 x 4 3/4 x 1/2\" • Postcards measure: 6 1/2 x 4 3/4\" • Perforated to send or save",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0735340889"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780735340886"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 60,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gN0tnwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gN0tnwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=gN0tnwEACAAJ&dq=*&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=gN0tnwEACAAJ&dq=*&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Diary_of_a_Wimpy_Kid_Postcard_Book.html?hl=&id=gN0tnwEACAAJ"
+   }
+  },
+  {
+   "id": "eo1cC73MmsgC",
+   "volumeInfo": {
+    "title": "Tiffany Designs Stained Glass Coloring Book",
+    "authors": [
+     "A. G. Smith"
+    ],
+    "publisher": "Courier Corporation",
+    "publishedDate": "1991-08-01",
+    "description": "Sixteen boldly outlined motifs based on actual Tiffany designs: landscapes, florals, birds, a ship, and other attractive images. Original designs in full color on covers.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "048626792X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486267920"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=eo1cC73MmsgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=eo1cC73MmsgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=eo1cC73MmsgC&printsec=frontcover&dq=*&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=eo1cC73MmsgC&dq=*&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Tiffany_Designs_Stained_Glass_Coloring_B.html?hl=&id=eo1cC73MmsgC"
+   }
+  },
+  {
+   "id": "HvJaAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The Jungle Book",
+    "authors": [
+     "Rudyard Kipling"
+    ],
+    "publishedDate": "1920",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015015357935"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 303,
+    "printType": "BOOK",
+    "categories": [
+     "Animals"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 332,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.4.4.0.full.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HvJaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HvJaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=HvJaAAAAMAAJ&printsec=frontcover&dq=*&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=HvJaAAAAMAAJ&dq=*&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/The_Jungle_Book.html?hl=&id=HvJaAAAAMAAJ"
+   }
+  },
+  {
+   "id": "S_3fAj4l3U0C",
+   "volumeInfo": {
+    "title": "ProBlogger",
+    "subtitle": "Secrets for Blogging Your Way to a Six-Figure Income",
+    "authors": [
+     "Darren Rowse",
+     "Chris Garrett"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2012-02-07",
+    "description": "An update of one of the bestselling blogging books, written by two of the world's most successful bloggers There's a reason why the first two editions of this book have sold thousands of copies worldwide. Written by two of the world's most successful bloggers, it's one of the clearest books out there on how to earn an income from your blog. This new edition gets you up to date on the very latest changes that affect the blogging-for-business landscape. Featuring new material on Twitter, Facebook, and LinkedIn; plus new ways and tools to grow your audience and expand your business beyond your blog, this professional blogger's bible is better than ever. Helps novices choose a blog topic, analyze the market, set up a blog, promote it, and earn revenue Gives aspiring bloggers proven techniques and the tools they need to succeed in building a business from their blogs Reveals 20 key ingredients for a successful blog post Offers solid, step-by-step instruction on how bloggers actually make money, why niches matter, how to use essential blogging tools and take advantage of social media and content aggregators, how to optimize your advertising, and much more Includes techniques for attracting and growing an audience and how to mine new business opportunities beyond your blog Written by two fulltime professional bloggers, this exciting, updated edition of ProBlogger tells you exactly how to launch and maintain a blog that makes money.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781118240694"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1118240693"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.12.10.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=S_3fAj4l3U0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=S_3fAj4l3U0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=S_3fAj4l3U0C&printsec=frontcover&dq=*&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=S_3fAj4l3U0C&dq=*&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/ProBlogger.html?hl=&id=S_3fAj4l3U0C"
+   }
+  },
+  {
+   "id": "veGXULZK6UAC",
+   "volumeInfo": {
+    "title": "The Book Thief",
+    "authors": [
+     "Markus Zusak"
+    ],
+    "publisher": "Knopf Books for Young Readers",
+    "publishedDate": "2007-12-18",
+    "description": "The extraordinary #1 New York Times bestseller that is now a major motion picture, Markus Zusak's unforgettable story is about the ability of books to feed the soul. It is 1939. Nazi Germany. The country is holding its breath. Death has never been busier, and will become busier still. Liesel Meminger is a foster girl living outside of Munich, who scratches out a meager existence for herself by stealing when she encounters something she can’t resist–books. With the help of her accordion-playing foster father, she learns to read and shares her stolen books with her neighbors during bombing raids as well as with the Jewish man hidden in her basement. In superbly crafted writing that burns with intensity, award-winning author Markus Zusak, author of I Am the Messenger, has given us one of the most enduring stories of our time.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0307433846"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307433848"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 592,
+    "printType": "BOOK",
+    "categories": [
+     "Young Adult Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3466,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.18.13.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=veGXULZK6UAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=veGXULZK6UAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=veGXULZK6UAC&printsec=frontcover&dq=*&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=veGXULZK6UAC&dq=*&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/The_Book_Thief.html?hl=&id=veGXULZK6UAC"
+   }
+  },
+  {
+   "id": "KGIbfiiP1i4C",
+   "volumeInfo": {
+    "title": "Natural Language Processing with Python",
+    "authors": [
+     "Steven Bird",
+     "Ewan Klein",
+     "Edward Loper"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2009-06-12",
+    "description": "This book offers a highly accessible introduction to natural language processing, the field that supports a variety of language technologies, from predictive text and email filtering to automatic summarization and translation. With it, you'll learn how to write Python programs that work with large collections of unstructured text. You'll access richly annotated datasets using a comprehensive range of linguistic data structures, and you'll understand the main algorithms for analyzing the content and structure of written communication. Packed with examples and exercises, Natural Language Processing with Python will help you: Extract information from unstructured text, either to guess the topic or identify \"named entities\" Analyze linguistic structure in text, including parsing and semantic analysis Access popular linguistic databases, including WordNet and treebanks Integrate techniques drawn from fields as diverse as linguistics and artificial intelligence This book will help you gain practical skills in natural language processing using the Python programming language and the Natural Language Toolkit (NLTK) open source library. If you're interested in developing web applications, analyzing multilingual news sources, or documenting endangered languages -- or if you're simply curious to have a programmer's perspective on how human language works -- you'll find Natural Language Processing with Python both fascinating and immensely useful.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596555719"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0596555717"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 504,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.3.4.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KGIbfiiP1i4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KGIbfiiP1i4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=KGIbfiiP1i4C&printsec=frontcover&dq=*&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=KGIbfiiP1i4C&dq=*&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Natural_Language_Processing_with_Python.html?hl=&id=KGIbfiiP1i4C"
+   }
+  },
+  {
+   "id": "hmRsyNcHRNEC",
+   "volumeInfo": {
+    "title": "Cathy's Book",
+    "subtitle": "If Found Call (650) 266-8233",
+    "authors": [
+     "Sean Stewart",
+     "Jordan Weisman"
+    ],
+    "publisher": "Running Press",
+    "publishedDate": "2006",
+    "description": "Cathy, an aspiring artist who is still getting over her father's death, becomes embroiled in a mystery after discovering that her ex-boyfriend--who appears only a few years older than herself--is actually more than two hundred years old.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "076242656X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780762426560"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 143,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 14,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hmRsyNcHRNEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hmRsyNcHRNEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=hmRsyNcHRNEC&dq=*&hl=&cd=11&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=hmRsyNcHRNEC&dq=*&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Cathy_s_Book.html?hl=&id=hmRsyNcHRNEC"
+   }
+  },
+  {
+   "id": "UzqVUdEtLDwC",
+   "volumeInfo": {
+    "title": "The Fault in Our Stars",
+    "authors": [
+     "John Green"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2012-01-10",
+    "description": "Now a Major Motion Picture TODAY Book Club pick TIME Magazine’s #1 Fiction Book of 2012 \"The greatest romance story of this decade.\" —Entertainment Weekly -Millions of copies sold- #1 New York Times Bestseller #1 Wall Street Journal Bestseller #1 USA Today Bestseller #1 International Bestseller #1 Indie Bestseller Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel’s story is about to be completely rewritten. Insightful, bold, irreverent, and raw, The Fault in Our Stars brilliantly explores the funny, thrilling, and tragic business of being alive and in love.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781101569184"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1101569182"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Young Adult Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 1265,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.9.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UzqVUdEtLDwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UzqVUdEtLDwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=UzqVUdEtLDwC&printsec=frontcover&dq=*&hl=&cd=12&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=UzqVUdEtLDwC&dq=*&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/The_Fault_in_Our_Stars.html?hl=&id=UzqVUdEtLDwC"
+   }
+  },
+  {
+   "id": "xn1UAAAAMAAJ",
+   "volumeInfo": {
+    "title": "MLA Style Manual and Guide to Scholarly Publishing",
+    "authors": [
+     "Joseph Gibaldi"
+    ],
+    "publisher": "Modern Language Assn of Amer",
+    "publishedDate": "1998",
+    "description": "Provides information on stylistic aspects of research papers, theses, and dissertations, including sections on writing fundamentals, MLA documentation style, and copyright law",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015049642161"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 343,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.13.2.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xn1UAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xn1UAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xn1UAAAAMAAJ&dq=*&hl=&cd=13&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=xn1UAAAAMAAJ&dq=*&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/MLA_Style_Manual_and_Guide_to_Scholarly.html?hl=&id=xn1UAAAAMAAJ"
+   }
+  },
+  {
+   "id": "tvfyz-4JILwC",
+   "volumeInfo": {
+    "title": "The Lean Startup",
+    "subtitle": "How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+    "authors": [
+     "Eric Ries"
+    ],
+    "publisher": "Crown Business",
+    "publishedDate": "2011-09-13",
+    "description": "Most startups fail. But many of those failures are preventable. The Lean Startup is a new approach being adopted across the globe, changing the way companies are built and new products are launched. Eric Ries defines a startup as an organization dedicated to creating something new under conditions of extreme uncertainty. This is just as true for one person in a garage or a group of seasoned professionals in a Fortune 500 boardroom. What they have in common is a mission to penetrate that fog of uncertainty to discover a successful path to a sustainable business. The Lean Startup approach fosters companies that are both more capital efficient and that leverage human creativity more effectively. Inspired by lessons from lean manufacturing, it relies on “validated learning,” rapid scientific experimentation, as well as a number of counter-intuitive practices that shorten product development cycles, measure actual progress without resorting to vanity metrics, and learn what customers really want. It enables a company to shift directions with agility, altering plans inch by inch, minute by minute. Rather than wasting time creating elaborate business plans, The Lean Startup offers entrepreneurs - in companies of all sizes - a way to test their vision continuously, to adapt and adjust before it’s too late. Ries provides a scientific approach to creating and managing successful startups in a age when companies need to innovate more than ever. From the Hardcover edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307887917"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "030788791X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2136,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.17.8.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tvfyz-4JILwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tvfyz-4JILwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover&dq=*&hl=&cd=14&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=tvfyz-4JILwC&dq=*&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/The_Lean_Startup.html?hl=&id=tvfyz-4JILwC"
+   }
+  },
+  {
+   "id": "Bjj8G3ttLWUC",
+   "volumeInfo": {
+    "title": "Business Model Generation",
+    "subtitle": "A Handbook for Visionaries, Game Changers, and Challengers",
+    "authors": [
+     "Alexander Osterwalder",
+     "Yves Pigneur"
+    ],
+    "publisher": "OSF",
+    "publishedDate": "2009",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9782839905800"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "2839905809"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 281,
+    "printType": "BOOK",
+    "categories": [
+     "Business planning"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Bjj8G3ttLWUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Bjj8G3ttLWUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Bjj8G3ttLWUC&printsec=frontcover&dq=*&hl=&cd=15&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Bjj8G3ttLWUC&dq=*&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Business_Model_Generation.html?hl=&id=Bjj8G3ttLWUC"
+   }
+  },
+  {
+   "id": "0_KUsyJz6pMC",
+   "volumeInfo": {
+    "title": "The Graveyard Book",
+    "authors": [
+     "Neil Gaiman"
+    ],
+    "publisher": "Harper Collins",
+    "publishedDate": "2010-09-28",
+    "description": "It takes a graveyard to raise a child. Nobody Owens, known as Bod, is a normal boy. He would be completely normal if he didn't live in a graveyard, being raised by ghosts, with a guardian who belongs to neither the world of the living nor the dead. There are adventures in the graveyard for a boy—an ancient Indigo Man, a gateway to the abandoned city of ghouls, the strange and terrible Sleer. But if Bod leaves the graveyard, he will be in danger from the man Jack—who has already killed Bod's family.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780060530945"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0060530944"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 17,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0_KUsyJz6pMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0_KUsyJz6pMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0_KUsyJz6pMC&printsec=frontcover&dq=*&hl=&cd=16&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=0_KUsyJz6pMC&dq=*&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/The_Graveyard_Book.html?hl=&id=0_KUsyJz6pMC"
+   }
+  },
+  {
+   "id": "oDPAV6FsWRsC",
+   "volumeInfo": {
+    "title": "The Cracking Code Book",
+    "authors": [
+     "Simon Singh"
+    ],
+    "publisher": "HarperCollins UK",
+    "publishedDate": "2012-06-21",
+    "description": "How to make it, break it, hack it, crack it. The secret history of codes and code breaking. Simon Singh’s best-selling title The Code Book now re-issued for the young-adult market.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780007484997"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0007484992"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 10,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oDPAV6FsWRsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oDPAV6FsWRsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=oDPAV6FsWRsC&dq=*&hl=&cd=17&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=oDPAV6FsWRsC&dq=*&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/The_Cracking_Code_Book.html?hl=&id=oDPAV6FsWRsC"
+   }
+  },
+  {
+   "id": "r7iqxu6cApcC",
+   "volumeInfo": {
+    "title": "The Exeter Book",
+    "authors": [
+     "George Philip Krapp",
+     "Elliott Van Kirk Dobbie"
+    ],
+    "publisher": "Columbia University Press",
+    "publishedDate": "1936",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0231515944"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780231515948"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 382,
+    "printType": "BOOK",
+    "categories": [
+     "English poetry"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=r7iqxu6cApcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=r7iqxu6cApcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=r7iqxu6cApcC&dq=*&hl=&cd=18&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=r7iqxu6cApcC&dq=*&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/The_Exeter_Book.html?hl=&id=r7iqxu6cApcC"
+   }
+  },
+  {
+   "id": "Ydp-MAEACAAJ",
+   "volumeInfo": {
+    "title": "Secret Garden",
+    "subtitle": "An Inky Treasure Hunt and Coloring Book",
+    "authors": [
+     "Johanna Basford"
+    ],
+    "publisher": "Laurence King Publishing",
+    "publishedDate": "2013-03-26",
+    "description": "Good news for all SECRET GARDEN fans! All editions of SECRET GARDEN now feature thicker and heavier paper stock, fighting bleed-through from ink pens. Experience the phenomenon that has sold 2 million copies worldwide and launched the coloring craze for adults. This beautiful and interactive coloring book features delicate and highly detailed pen-and-ink illustrations—all waiting to be brought to life with color. As added entertainment, tiny garden creatures are hidden on the pages, waiting to be found, and a key and index are included in the back. The book's cover and jacket are also colorable. Appealing to all ages, SECRET GARDEN is the original and first book by Johanna Basford.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1780671067"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781780671062"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 12,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ydp-MAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ydp-MAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Ydp-MAEACAAJ&dq=*&hl=&cd=19&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Ydp-MAEACAAJ&dq=*&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Secret_Garden.html?hl=&id=Ydp-MAEACAAJ"
+   }
+  },
+  {
+   "id": "yaEhwqhNOBcC",
+   "volumeInfo": {
+    "title": "Dr. Seuss' ABC",
+    "authors": [
+     "Dr. Seuss"
+    ],
+    "publisher": "HarperCollins UK",
+    "publishedDate": "2003",
+    "description": "FICTION. BIG A little a What begins with A? Aunt Annie's alligator.......A....a....A. Dr Seuss's ABC is a wonderfully wild and wacky way to discover both the names and the sounds of letters. No matter how zany the concepts, the combination of pictures, sound effects and music completely support the learning process. Rik Mayall's utterly unique vocal skills bring the whole experience to life.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780007158485"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0007158483"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 63,
+    "printType": "BOOK",
+    "categories": [
+     "Alphabet"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yaEhwqhNOBcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yaEhwqhNOBcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=yaEhwqhNOBcC&dq=*&hl=&cd=20&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=yaEhwqhNOBcC&dq=*&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Dr_Seuss_ABC.html?hl=&id=yaEhwqhNOBcC"
+   }
+  },
+  {
+   "id": "fUMbxQfmhXoC",
+   "volumeInfo": {
+    "title": "It's a Book",
+    "authors": [
+     "Lane Smith"
+    ],
+    "publisher": "Macmillan",
+    "publishedDate": "2010-11-17",
+    "description": "Playful and lighthearted with a subversive twist that is signature Lane Smith, IT’S A BOOK is a delightful manifesto on behalf of print in the digital age. This satisfying, perfectly executed picture book has something to say to readers of all stripes and all ages.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781429995634"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1429995637"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 6,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fUMbxQfmhXoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fUMbxQfmhXoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=fUMbxQfmhXoC&dq=*&hl=&cd=21&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=fUMbxQfmhXoC&dq=*&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/It_s_a_Book.html?hl=&id=fUMbxQfmhXoC"
+   }
+  }
+ ]
+}

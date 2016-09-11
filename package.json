@@ -1,0 +1,70 @@
+{
+  "name": "react_redux_starter_kit",
+  "version": "0.0.1",
+  "description": "Everything to get started writing a React + Redux app with this simple boilerplate example app that fetches books from the Google Books API.",
+  "homepage": "https://github.com/pashasc/react_redux_starter_kit",
+  "keywords": [
+    "react",
+    "redux",
+    "javascript"
+  ],
+  "scripts": {
+    "refresh": "rm -rf node_modules && npm cache clear && npm install",
+    "server": "webpack-dev-server --content-base build/",
+    "tests": "mocha tests/run.js",
+    "build": "webpack --config webpack.config.js --progress --colors",
+    "build:debug": "webpack --config webpack.config.js --progress --colors --display-error-details",
+    "build:compress": "webpack --config webpack.config.js --progress --colors --display-error-details",
+    "build:test": "webpack --config webpack.config.test.js --progress --colors --display-error-details",
+    "watch": "webpack --config webpack.config.js --watch --colors",
+    "watch:debug": "webpack --config webpack.config.js --watch --colors --display-error-details",
+    "watch:test": "webpack --config webpack.config.test.js --watch --colors",
+    "watch:test:debug": "webpack --config webpack.config.test.js --watch --colors --display-error-details"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pashasc/react_redux_starter_kit.git"
+  },
+  "author": "@pashasc",
+  "bugs": {
+    "url": "https://github.com/pashasc/react_redux_starter_kit/issues"
+  },
+  "dependencies": {
+    "axios": "^0.13.1",
+    "axios-mock-adapter": "^1.6.1",
+    "babel": "^6.5.2",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-polyfill": "^6.13.0",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "copy-webpack-plugin": "^3.0.1",
+    "enzyme": "^2.4.1",
+    "es6-promise": "^3.2.1",
+    "fs": "0.0.2",
+    "json-loader": "^0.5.4",
+    "npm": "^3.10.6",
+    "react": "^15.3.0",
+    "react-addons-css-transition-group": "^15.3.1",
+    "react-addons-test-utils": "^15.3.1",
+    "react-addons-update": "^15.3.0",
+    "react-dom": "^15.3.0",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.6.1",
+    "redux": "^3.5.2",
+    "redux-logger": "^2.6.1",
+    "redux-thunk": "^2.1.0",
+    "sinon": "^1.17.5",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1",
+    "webpack-split-by-path": "0.1.0-beta.1"
+  },
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "file-loader": "^0.9.0",
+    "jsdom": "^9.4.2",
+    "mocha": "^3.0.2",
+    "redux-mock-store": "^1.1.2",
+    "redux-thunk": "^2.1.0"
+  }
+}
