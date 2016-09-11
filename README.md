@@ -32,8 +32,6 @@ Explanation of app structure
 
     Container components listen to state updates via Redux Connect. They automatically pick up state changes which they pass down to their 'child' components as props. 
 
-    The rest of the components should be 'dumb' or 'presentational' components. This way they are reusable, so they shouldn't handle much state.
-
 2. **/modules**
 
     Modules are the parts of the application which deal with state. They are self-contained units which should expose public functions in index.js for other parts of the application.
@@ -78,7 +76,7 @@ Explanation of app structure
 Testing
 =======
 
-Write tests by including a new entry in webpack.config.test.js. Add this ```entry to tests/run.js```. 
+Write tests by including a new entry in ```webpack.config.test.js```. Add this entry to ```tests/run.js```. 
 
 * Run the command ```npm run tests``` to run all of the tests.
 * Run the command ```mocha tests/build/componentAppContainerTests --require tests/browser.js``` to run a single test. Substitute "tests/build/componentAppContainerTests" for the test entry you want to run mocha against.
@@ -91,7 +89,7 @@ Write tests by including a new entry in webpack.config.test.js. Add this ```entr
       this.mock.onGet(`${c.GOOGLE_BOOKS_ENDPOINT}/${book.id}`)
         .reply(200, { response: { data: book } });
 
-  Check out the npm package for more documentation on using axios-mock-adapter. Also, check out ```tests/modules/book-detail/api.tests.js``` for an example using this to mock a redux store. Also, the Redux documentation is really great.
+  Check out the npm package for more documentation on using axios-mock-adapter. Also, check out ```tests/modules/books/api.tests.js``` for an example using this to mock a redux store. Also, the Redux documentation is really great.
 
 2. Tests use enzyme for testing components. It has a great API for testing click simulations, mounting to mocks, state changes and more. Check out ```tests/components``` for examples.
 
