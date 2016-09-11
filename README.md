@@ -82,13 +82,6 @@ Write tests by including a new entry in ```webpack.config.test.js```. Add this e
 * Run the command ```mocha tests/build/componentAppContainerTests --require tests/browser.js``` to run a single test. Substitute "tests/build/componentAppContainerTests" for the test entry you want to run mocha against.
 
 1. Tests use 'axios-mock-adapter' for mocking the axios network requests.
-
-  Example creating a mock axios request;
-
-      let book = booksJSON.items[0];
-      this.mock.onGet(`${c.GOOGLE_BOOKS_ENDPOINT}/${book.id}`)
-        .reply(200, { response: { data: book } });
-
   Check out the npm package for more documentation on using axios-mock-adapter. Also, check out ```tests/modules/books/api.tests.js``` for an example using this to mock a redux store. Also, the Redux documentation is really great.
 
 2. Tests use enzyme for testing components. It has a great API for testing click simulations, mounting to mocks, state changes and more. Check out ```tests/components``` for examples.
